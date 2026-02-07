@@ -1,0 +1,7 @@
+{
+  "name": "AcademiFlow - Organic Academic Planner",
+  "description": "A premium academic time management platform featuring organic brutalist design, performance analytics, and AI-powered study motivation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
